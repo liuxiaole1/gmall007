@@ -9,5 +9,6 @@ public class text {
         System.out.println("张开翔hhh");
         System.out.println("456");
         System.out.println("456");
+        System.out.println("456");
     }
 }
